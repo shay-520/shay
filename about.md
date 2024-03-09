@@ -25,6 +25,10 @@ permalink: /about/
 ## [langccLox](https://gitlab.eduxiji.net/202314039201490/tiny3d)   2024.03
 > 使用现代C++实现lox,用于练习C++
 
+# Data Structure
+## [Rust](https://gitlab.eduxiji.net/202314039201490/tiny3d)   2024.03
+> 使用Rust实现链表、树、图等常见数据结构和算法
+
 # gamehacking
 
 TODO
