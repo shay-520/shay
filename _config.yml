@@ -6,8 +6,8 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  你好，我是shay。刚刚大学毕业，我对逆向工程、编译原理和图形学感兴趣。
-  QQ:1316625206
+  你好，我是shay.刚刚大学毕业,我对逆向工程、编译原理和图形学感兴趣.欢迎大家一起交流
+  QQ群:905335954
 
 # Build settings
 
@@ -30,8 +30,7 @@ minima:
   social_links:
     - { platform: bilibili,       user_url: "https://space.bilibili.com/39783002" }
     - { platform: github,         user_url: "https://github.com/shay-520" }
-    - { platform: telegram,       user_url: "https://t.me/" }
-    - { platform: twitter,        user_url: "https://twitter.com/" }
+
 
 
 # If you want to link only specific pages in your header, uncomment this and add the path to the pages in
